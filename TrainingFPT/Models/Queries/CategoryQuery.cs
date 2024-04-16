@@ -5,7 +5,7 @@ namespace TrainingFPT.Models.Queries
 {
     public class CategoryQuery
     {
-        // viet ham - cap nhat lai category
+        
         public bool UpdateCategoryById(
             string nameCategory,
             string description,
